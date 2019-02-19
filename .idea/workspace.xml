@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b2a75c8-2378-4963-a5c9-0ded3ec2bbc8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/savepwd.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4b2a75c8-2378-4963-a5c9-0ded3ec2bbc8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="savepwd.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="savepwd.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/savepwd.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#6#94#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findpwd.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/findpwd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="e#6#94#0#PHP" expanded="true" />
               </folding>
@@ -93,6 +102,7 @@
         <option value="$PROJECT_DIR$/user.php" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/savepwd.php" />
+        <option value="$PROJECT_DIR$/findpwd.php" />
       </list>
     </option>
   </component>
@@ -223,10 +233,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1210000" />
+    <option name="totallyTimeSpent" value="1440000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="184" width="1004" height="688" extended-state="1" />
+    <frame x="720" y="184" width="1004" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -427,6 +437,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findpwd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
