@@ -3,7 +3,6 @@
  * Created by PhpStorm.
  * User: Administrator
  * Date: 2019/2/19
- * Time: 10:55
+ * Time: 10:00
  */
-echo 'findpwd.php';
-echo '222';
+echo '修改密码页面';
